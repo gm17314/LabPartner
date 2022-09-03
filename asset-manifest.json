@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LabPartner/static/css/main.e42fd572.css",
+    "main.js": "/LabPartner/static/js/main.7d97a3f5.js",
+    "static/js/787.0ee0a198.chunk.js": "/LabPartner/static/js/787.0ee0a198.chunk.js",
+    "index.html": "/LabPartner/index.html",
+    "main.e42fd572.css.map": "/LabPartner/static/css/main.e42fd572.css.map",
+    "main.7d97a3f5.js.map": "/LabPartner/static/js/main.7d97a3f5.js.map",
+    "787.0ee0a198.chunk.js.map": "/LabPartner/static/js/787.0ee0a198.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e42fd572.css",
+    "static/js/main.7d97a3f5.js"
+  ]
+}
